@@ -88,10 +88,10 @@ Y=y[i-1];
 X=x[i-1];
 i--;
 }
-if(key==KEY_UP)   { ny--; }
-if(key==KEY_LEFT) {	nx--; }
-if(key==KEY_DOWN) {	ny++; }
-if(key==KEY_RIGHT){	nx++; }
+if(key==KEY_UP)    { ny--; }
+if(key==KEY_LEFT)  {	nx--; }
+if(key==KEY_DOWN)  {	ny++; }
+if(key==KEY_RIGHT) {	nx++; }
 mvprintw(ny,nx,"O" );
 
 }while(key!=27);
