@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1399158424 source:c:\users\ariel\desktop\weas pa la u\snake\main.cpp
+	<curses.h>
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<time.h>
+
